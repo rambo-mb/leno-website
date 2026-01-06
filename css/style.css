@@ -7,9 +7,9 @@
 }
 
 :root {
-	--primary-color: #4f46e5; /* Indigo */
-	--secondary-color: #111827; /* Dark gray */
-	--tertiary-color: #1f2937; /* Card background */
+	--primary-color: #08c0dd;
+	--secondary-color: #262431;
+	--tertiary-color: #2f2c3d;
 }
 
 html,
